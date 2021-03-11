@@ -1,0 +1,214 @@
+<resources>
+    <string name="app_name">Squee Steak</string>
+    <!--  NAMA MENU  -->
+    <!--  STEAKS  -->
+    <string-array name="data_menu_nama_steaks">
+        <item>Tornado steak </item>
+        <item>OX Tongue Steak</item>
+        <item>Medallion Steak</item>
+        <item>Mozarella Beef Roll</item>
+        <item>Galantine Telur</item>
+        <item>Tenderloin Steak</item>
+        <item>Grilled Sirloin Steak</item>
+        <item>Grilled Tenderloin Steak</item>
+        <item>Rib Eye Premium</item>
+        <item>Chicken Roulade</item>
+        <item>Spring Chicken</item>
+    </string-array>
+    <!-- SIDE DISHES -->
+    <string-array name="data_menu_nama_side_dishes">
+        <item>Crispy Fried Chicken Skin</item>
+        <item>Chicken Risolles</item>
+        <item>Corn with Butter and Cheese</item>
+        <item>Chicken Wings</item>
+        <item>Crispy Pastry Soup</item>
+        <item>Tomato Soup</item>
+        <item>Crabmeat Soup</item>
+        <item>Salmon Salad</item>
+        <item>Chef\'s Salad</item>
+        <item>Tuna Salad</item>
+    </string-array>
+    <!-- DRINKS -->
+    <string-array name="data_menu_nama_drinks">
+        <item>Lychee Breeze</item>
+        <item>Tropical Punch</item>
+        <item>Winter Punch</item>
+        <item>Toffee Coffee</item>
+        <item>Green Tea Shake</item>
+        <item>Green Tea Yakult</item>
+        <item>Mixberry</item>
+        <item>Orange Lychee Sparkle</item>
+        <item>Blue Ocean</item>
+        <item>Café Lattee</item>
+    </string-array>
+
+    <!--  FOTO MENU  -->
+    <array name="data_menu_foto_steaks">
+        <item>@drawable/steaks_tornado_steak</item>
+        <item>@drawable/steaks_ox_tongue_steak</item>
+        <item>@drawable/steaks_medallion_steak</item>
+        <item>@drawable/steaks_mozarella_beef_roll</item>
+        <item>@drawable/steaks_galantine_telur</item>
+        <item>@drawable/steaks_tenderloin_steak</item>
+        <item>@drawable/steaks_grilled_sirloin_steak</item>
+        <item>@drawable/steaks_grilled_tenderloin_steak</item>
+        <item>@drawable/steaks_rib_eye_premium</item>
+        <item>@drawable/steaks_chicken_roulade</item>
+        <item>@drawable/steaks_spring_chicken</item>
+    </array>
+    <array name="data_menu_foto_side_dishes">
+        <item>@drawable/side_dishes_crispy_chicken_skin</item>
+        <item>@drawable/side_dishes_risolles</item>
+        <item>@drawable/side_dishes_corn_butter_cheese</item>
+        <item>@drawable/side_dishes_chicken_wings</item>
+        <item>@drawable/side_dishes_crispy_pastry_soup</item>
+        <item>@drawable/side_dishes_tomato_soup</item>
+        <item>@drawable/side_dishes_crabmeat_soup</item>
+        <item>@drawable/side_dishes_salmon_salad</item>
+        <item>@drawable/side_dishes_chef_salad</item>
+        <item>@drawable/side_dishes_tuna_salad</item>
+    </array>
+    <array name="data_menu_foto_drinks">
+        <item>@drawable/drinks_lychee_breeze</item>
+        <item>@drawable/drinks_tropicalpunch</item>
+        <item>@drawable/drinks_winter_punch</item>
+        <item>@drawable/drinks_toffee_coffee</item>
+        <item>@drawable/drinks_green_tea_shake</item>
+        <item>@drawable/drinks_green_tea_yakult</item>
+        <item>@drawable/drinks_mixberry</item>
+        <item>@drawable/drinks_orange_lychee_sparkle</item>
+        <item>@drawable/drinks_blue_ocean</item>
+        <item>@drawable/drinks_cafe_latte</item>
+    </array>
+
+
+    <!--  HARGA MENU  -->
+    <string-array name="data_menu_harga_steaks">
+        <item>93000</item>
+        <item>93000</item>
+        <item>88000</item>
+        <item>102000</item>
+        <item>83000</item>
+        <item>96000</item>
+        <item>90000</item>
+        <item>140000</item>
+        <item>126000</item>
+        <item>70000</item>
+        <item>95000</item>
+    </string-array>
+    <string-array name="data_menu_harga_side_dishes">
+        <item>30000</item>
+        <item>30000</item>
+        <item>30000</item>
+        <item>80000</item>
+        <item>49000</item>
+        <item>37000</item>
+        <item>47000</item>
+        <item>87000</item>
+        <item>84000</item>
+        <item>72000</item>
+    </string-array>
+    <string-array name="data_menu_harga_drinks">
+        <item>33000</item>
+        <item>33000</item>
+        <item>33000</item>
+        <item>31000</item>
+        <item>26000</item>
+        <item>26000</item>
+        <item>31000</item>
+        <item>31000</item>
+        <item>31000</item>
+        <item>24000</item>
+    </string-array>
+
+    <!--  BINTANG -->
+    <string-array name="data_menu_bintang_steaks">
+        <item>4</item>
+        <item>4</item>
+        <item>5</item>
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <item>5</item>
+        <item>5</item>
+        <item>5</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="data_menu_bintang_side_dishes">
+        <item>3</item>
+        <item>3</item>
+        <item>3</item>
+        <item>5</item>
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <item>5</item>
+        <item>5</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="data_menu_bintang_drinks">
+        <item>5</item>
+        <item>4</item>
+        <item>5</item>
+        <item>5</item>
+        <item>4</item>
+        <item>3</item>
+        <item>5</item>
+        <item>4</item>
+        <item>5</item>
+        <item>4</item>
+    </string-array>
+
+    <!--  DETAIL MENU  -->
+    <string-array name="data_menu_detail_steaks">
+        <item> Steak lulur dalam dililit smoked beef</item>
+        <item>Steak lidah</item>
+        <item>Steak daging cincang dengan keju dan smoked beef</item>
+        <item>Steak lulur dalam dengan isian mozzarella</item>
+        <item>Daging cincang roll lapis telur disajikan dengan saus special</item>
+        <item>Steak lulur dalam</item>
+        <item>Steak lulur luar dipanggang dengan taburan merica hitam</item>
+        <item>Steak lulur dalam dipanggang dengan taburan merica hitam</item>
+        <item>Steak iga sapi tanpa tulang dipanggang dengan taburan merica hitam</item>
+        <item>Roll ayam cincang isi sosis lapis mozarella digoreng tepung roti disajikan dengan kroket kentang</item>
+        <item>Steak ayam muda dibakar dengan brandy</item>
+    </string-array>
+    <string-array name="data_menu_detail_side_dishes">
+        <item>Keripik kulit ayam dengan saus spesial Squee Steak</item>
+        <item>Risoles berisi daging ayam cincang dan sayuran</item>
+        <item>Jagung manis dengan butter dan keju</item>
+        <item>Sayap ayam Japanese Style</item>
+        <item>Sup krim dengan ayam, jamur, sosis dan kacang polong dengan topping pastry</item>
+        <item>Sup tomat dengan ayam, wortel, lidah sapi, sosis, dan kacang polong</item>
+        <item>Sup kepiting bening dengan jagung dan asparagus</item>
+        <item>Salad lettuce, kol ungu, wortel, jagung, tomat, bombay dan salmon asap dengan dressing thousand island</item>
+        <item>Salad lettuce, kol ungu, wortel, jagung, tomat, bombay, daging, ayam, sosis, dan udang dengan dressing thousand island</item>
+        <item>Salad lettuce, kol ungu, wortel, jagung, tomat, bombay dan ikan tuna dengan dressing thousand island</item>
+    </string-array>
+    <string-array name="data_menu_detail_drinks">
+        <item>Buah leci, sirup leci, soda dan jeruk nipis</item>
+        <item>Buah peach, nata de coco, semangka, biji selasih, sirup mangga dan lemon tea</item>
+        <item>Buah leci, nata de coco, biji selasih, sirup leci dan lemon tea</item>
+        <item>Kopi, sirup karamel dan whipped cream</item>
+        <item>Bubuk Teh Hijau, Susu, Es Krim Vanila dan Whipped Cream</item>
+        <item>Bubuk teh hijau, yakult dan potongan buah melon</item>
+        <item>Soda bluberi, sirup stroberi, biji selasih dan jelly</item>
+        <item>Jus jeruk dan sirup leci</item>
+        <item>Soda bluberi, sirup mangga dan biji selasih</item>
+        <item>Kopi dengan busa susu creamy dan taburan bubuk kayu manis</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
+
+
+
+
+
+
+
+
+
+
+
